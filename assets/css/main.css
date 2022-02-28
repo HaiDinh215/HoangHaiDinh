@@ -3982,3 +3982,11 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+/* Hai Dinh custom */
+#about{
+	background-color: #537e69;
+}
+#workExperience{
+	background-color: #ca9c45;
+}
