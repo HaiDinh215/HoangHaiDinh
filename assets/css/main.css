@@ -3500,7 +3500,8 @@ input, select, textarea {
 
 		#banner.major {
 			height: 75vh;
-			min-height: 30em;
+			/* Hai Dinh custom */
+			min-height: 40em;
 			max-height: 50em;
 		}
 
